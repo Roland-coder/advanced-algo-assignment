@@ -2,7 +2,7 @@ from main import sockMerchant
 import unittest
 
 class Test(unittest.TestCase):
-    def test_ten(self):
+    def test_thirty(self):
         ar = [1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10]
         n = 30
         expected = 10
